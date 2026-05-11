@@ -1,0 +1,20 @@
+.hombre_title {
+  color: #0099ff; 
+  text-decoration: none; 
+  margin-right: 15px;
+  font-weight: 700;
+  font-size:35px;
+}
+
+.home1{
+  background: #ffffff;
+  color:  rgb(0, 217, 255);
+  font-size: 250px;
+  width: 100%;
+  max-width: 800px;
+  padding: 163px;
+  box-shadow: 0 4px 15px rgba(27, 4, 236, 0.822);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
